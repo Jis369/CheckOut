@@ -1,7 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 TO whomso ever chcking the asssingment - Created this website in a day as i was bedridden for past 2 days after receiving the mail. More optimizations can be made if i could get a day more.
 
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Getting Started
 
 First, run the development server:
